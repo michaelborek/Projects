@@ -1,1 +1,2 @@
 # Szkola
+Folder z projektami.
