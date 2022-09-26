@@ -1,2 +1,2 @@
-# Szkola
-Folder z projektami.
+# Folder with my projects
+
